@@ -6,7 +6,7 @@ Duration: June to July 2024
 Mentor: 
 
 Overview of the Project
-Project: Exploratory Data Analysis (EDA) on World Population Dataset
+Project: Simple Calculator
 ![Screenshot (102)](https://github.com/annshumann/CODTECH-Task_1/assets/173528493/c9fcf117-42d3-4ddf-adc6-b0cae78f229e)
 
 
