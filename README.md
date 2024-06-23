@@ -11,6 +11,7 @@ Project: Simple Calculator
 
 
 Objective
+
 Develop a user-friendly command-line calculator application capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 Implement error handling to manage edge cases such as division by zero and invalid input formats, ensuring robust functionality and user experience.
 Incorporate support for advanced operations like exponentiation and modulus to enhance the calculator's utility for both simple and complex calculations.
@@ -18,6 +19,7 @@ Design the calculator to maintain a clear and intuitive user interface, allowing
 Utilize Python's standard libraries and best practices for code readability and maintainability, facilitating future enhancements and modifications to the calculator's functionality.
 
 Key Activities
+
 User Input Handling:
 
 Receive user input for mathematical expressions or individual operations.
